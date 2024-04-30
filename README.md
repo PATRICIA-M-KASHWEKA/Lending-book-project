@@ -37,7 +37,7 @@ In conclusion, the analysis of the code structure and token distribution provide
 
 ## Appendix: Project Repository
 
-The code files and resources for this assignment are available in the following GitHub repository: [JavaParser-TeamCpp](https://github.com/PATRICIA-M-KASHWEKA/Lending-book-project.git).
+The code files and resources for this assignment are available in the following GitHub repository: [Lending-book-project](https://github.com/PATRICIA-M-KASHWEKA/Lending-book-project.git).
 
 ### Folder Contents:
 
